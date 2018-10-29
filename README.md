@@ -9,3 +9,10 @@ Great Bookmarks
 - Search through links and bookmarks efficiently
 - Bookmarks that don't suck
 - Chrome extension, Firefox extension, custom email password account system
+- Filter tabs for quick navigation
+  - Newest
+  - Oldest
+  - Search
+    - Content
+    - Keywords
+    - Meta data
